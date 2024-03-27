@@ -1,0 +1,101 @@
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2.5rem;
+  
+}
+.navbar-nav .nav-link {
+  font-size: 1.5rem;
+  margin-right: 10px;
+  
+}
+.navbar-nav .nav-link:hover {
+  color: #fdfdfd;
+}
+.nav-bg-color-200 {
+  background-color: #AFA0E2;
+}
+.bg-success-300 {
+  background-color:  #AFA0E2 !important
+
+}
+
+.merriweather-regular {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.merriweather-bold {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.merriweather-black {
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.merriweather-light-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.merriweather-bold-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.center-text {
+  text-align: center;
+  margin-top: 40px; /* Adjust margin as needed */
+  padding: 20px; /* Adjust padding as needed */
+}
+
+
+
+.carousel-custom {
+  max-width: none !important; /* Remove max-width restriction */
+  margin: 50px auto !important; /* Center the carousel and add margin */
+  padding: 0 !important; /* Remove padding from the carousel */
+}
+
+.carousel-custom .carousel-inner {
+  max-height: none !important; /* Remove max-height restriction */
+}
+
+.carousel-item img {
+  width: 100%; /* Stretch the image to fill the carousel width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.carousel-container {
+  margin-top: 30px; /* Add margin to the top of the carousel */
+  padding: 30px; /* Add padding to the carousel */
+  padding-top: 60px;
+}
+
+#contact {
+   color: #000000;
+  position: relative;
+  width: 100%;
+  padding: 0;
+  padding-top: 20px;
+}
+
+#contact ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#contact li {
+  margin-bottom: 10px;
+}
+
+#cards{
+  padding-bottom: 20px;
+}
